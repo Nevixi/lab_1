@@ -1,0 +1,4 @@
+number_1 = float(input('Введіть перше число '))
+number_2 = float(input('Введіть друге число '))
+number_3 = float(input('Введіть третє число '))
+print("Найбільше число: ",max(number_1,number_2,number_3),"Найменше число", min(number_1,number_2,number_3))
